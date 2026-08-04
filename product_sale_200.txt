@@ -1,4 +1,3 @@
-Date,Seller_name,Purchaser_name,Product_name,Product_quantity,Product_price
 2026-08-04,Apex Retail,John Doe,Wireless Mouse,2,25.50
 2026-08-04,Alpha Traders,Jane Smith,Mechanical Keyboard,1,89.99
 2026-08-04,Omega Goods,Bob Johnson,USB-C Cable,5,12.45

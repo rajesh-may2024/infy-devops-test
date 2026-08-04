@@ -1,0 +1,171 @@
+Date,Seller_name,Purchaser_name,Product_name,Product_quantity,Product_price
+2026-08-04,Apex Retail,John Doe,Wireless Mouse,2,25.50
+2026-08-04,Alpha Traders,Jane Smith,Mechanical Keyboard,1,89.99
+2026-08-04,Omega Goods,Bob Johnson,USB-C Cable,5,12.45
+2026-08-04,Apex Retail,Alice Brown,LED Desk Lamp,1,34.99
+2026-08-04,Nova Systems,Charlie Green,Bluetooth Speaker,3,45.00
+2026-08-04,Alpha Traders,John Doe,Wireless Mouse,1,25.50
+2026-08-04,Omega Goods,Jane Smith,HDMI Cable,10,10.99
+2026-08-04,Nova Systems,Bob Johnson,Laptop Stand,2,39.95
+2026-08-04,Apex Retail,Charlie Green,Mechanical Keyboard,1,89.99
+2026-08-04,Alpha Traders,Alice Brown,USB-C Cable,4,12.45
+2026-08-04,Omega Goods,John Doe,LED Desk Lamp,2,34.99
+2026-08-04,Nova Systems,Jane Smith,Bluetooth Speaker,1,45.00
+2026-08-04,Apex Retail,Bob Johnson,HDMI Cable,6,10.99
+2026-08-04,Alpha Traders,Charlie Green,Laptop Stand,1,39.95
+2026-08-04,Omega Goods,Alice Brown,Wireless Mouse,3,25.50
+2026-08-04,Nova Systems,John Doe,Mechanical Keyboard,1,89.99
+2026-08-04,Apex Retail,Jane Smith,USB-C Cable,8,12.45
+2026-08-04,Alpha Traders,Bob Johnson,LED Desk Lamp,1,34.99
+2026-08-04,Omega Goods,Charlie Green,Bluetooth Speaker,2,45.00
+2026-08-04,Nova Systems,Alice Brown,HDMI Cable,5,10.99
+2026-08-04,Apex Retail,John Doe,Laptop Stand,1,39.95
+2026-08-04,Alpha Traders,Jane Smith,Wireless Mouse,4,25.50
+2026-08-04,Omega Goods,Bob Johnson,Mechanical Keyboard,1,89.99
+2026-08-04,Nova Systems,Charlie Green,USB-C Cable,7,12.45
+2026-08-04,Apex Retail,Alice Brown,LED Desk Lamp,3,34.99
+2026-08-04,Alpha Traders,John Doe,Bluetooth Speaker,2,45.00
+2026-08-04,Omega Goods,Jane Smith,HDMI Cable,9,10.99
+2026-08-04,Nova Systems,Bob Johnson,Laptop Stand,1,39.95
+2026-08-04,Apex Retail,Charlie Green,Wireless Mouse,2,25.50
+2026-08-04,Alpha Traders,Alice Brown,Mechanical Keyboard,1,89.99
+2026-08-04,Omega Goods,John Doe,USB-C Cable,6,12.45
+2026-08-04,Nova Systems,Jane Smith,LED Desk Lamp,2,34.99
+2026-08-04,Apex Retail,Bob Johnson,Bluetooth Speaker,1,45.00
+2026-08-04,Alpha Traders,Charlie Green,HDMI Cable,8,10.99
+2026-08-04,Omega Goods,Alice Brown,Laptop Stand,2,39.95
+2026-08-04,Nova Systems,John Doe,Wireless Mouse,5,25.50
+2026-08-04,Apex Retail,Jane Smith,Mechanical Keyboard,1,89.99
+2026-08-04,Alpha Traders,Bob Johnson,USB-C Cable,3,12.45
+2026-08-04,Omega Goods,Charlie Green,LED Desk Lamp,1,34.99
+2026-08-04,Nova Systems,Alice Brown,Bluetooth Speaker,3,45.00
+2026-08-04,Apex Retail,John Doe,HDMI Cable,7,10.99
+2026-08-04,Alpha Traders,Jane Smith,Laptop Stand,2,39.95
+2026-08-04,Omega Goods,Bob Johnson,Wireless Mouse,2,25.50
+2026-08-04,Nova Systems,Charlie Green,Mechanical Keyboard,1,89.99
+2026-08-04,Apex Retail,Alice Brown,USB-C Cable,5,12.45
+2026-08-04,Alpha Traders,John Doe,LED Desk Lamp,2,34.99
+2026-08-04,Omega Goods,Jane Smith,Bluetooth Speaker,2,45.00
+2026-08-04,Nova Systems,Bob Johnson,HDMI Cable,10,10.99
+2026-08-04,Apex Retail,Charlie Green,Laptop Stand,1,39.95
+2026-08-04,Alpha Traders,Alice Brown,Wireless Mouse,3,25.50
+2026-08-04,Omega Goods,John Doe,Mechanical Keyboard,1,89.99
+2026-08-04,Nova Systems,Jane Smith,USB-C Cable,4,12.45
+2026-08-04,Apex Retail,Bob Johnson,LED Desk Lamp,1,34.99
+2026-08-04,Alpha Traders,Charlie Green,Bluetooth Speaker,1,45.00
+2026-08-04,Omega Goods,Alice Brown,HDMI Cable,6,10.99
+2026-08-04,Nova Systems,John Doe,Laptop Stand,3,39.95
+2026-08-04,Apex Retail,Jane Smith,Wireless Mouse,2,25.50
+2026-08-04,Alpha Traders,Bob Johnson,Mechanical Keyboard,1,89.99
+2026-08-04,Omega Goods,Charlie Green,USB-C Cable,9,12.45
+2026-08-04,Nova Systems,Alice Brown,LED Desk Lamp,2,34.99
+2026-08-04,Apex Retail,John Doe,Bluetooth Speaker,3,45.00
+2026-08-04,Alpha Traders,Jane Smith,HDMI Cable,5,10.99
+2026-08-04,Omega Goods,Bob Johnson,Laptop Stand,1,39.95
+2026-08-04,Nova Systems,Charlie Green,Wireless Mouse,4,25.50
+2026-08-04,Apex Retail,Alice Brown,Mechanical Keyboard,1,89.99
+2026-08-04,Alpha Traders,John Doe,USB-C Cable,7,12.45
+2026-08-04,Omega Goods,Jane Smith,LED Desk Lamp,3,34.99
+2026-08-04,Nova Systems,Bob Johnson,Bluetooth Speaker,1,45.00
+2026-08-04,Apex Retail,Charlie Green,HDMI Cable,9,10.99
+2026-08-04,Alpha Traders,Alice Brown,Laptop Stand,2,39.95
+2026-08-04,Omega Goods,John Doe,Wireless Mouse,1,25.50
+2026-08-04,Nova Systems,Jane Smith,Mechanical Keyboard,1,89.99
+2026-08-04,Apex Retail,Bob Johnson,USB-C Cable,6,12.45
+2026-08-04,Alpha Traders,Charlie Green,LED Desk Lamp,2,34.99
+2026-08-04,Omega Goods,Alice Brown,Bluetooth Speaker,2,45.00
+2026-08-04,Nova Systems,John Doe,HDMI Cable,8,10.99
+2026-08-04,Apex Retail,Jane Smith,Laptop Stand,1,39.95
+2026-08-04,Alpha Traders,Bob Johnson,Wireless Mouse,5,25.50
+2026-08-04,Omega Goods,Charlie Green,Mechanical Keyboard,1,89.99
+2026-08-04,Nova Systems,Alice Brown,USB-C Cable,3,12.45
+2026-08-04,Apex Retail,John Doe,LED Desk Lamp,1,34.99
+2026-08-04,Alpha Traders,Jane Smith,Bluetooth Speaker,4,45.00
+2026-08-04,Omega Goods,Bob Johnson,HDMI Cable,7,10.99
+2026-08-04,Nova Systems,Charlie Green,Laptop Stand,2,39.95
+2026-08-04,Apex Retail,Alice Brown,Wireless Mouse,2,25.50
+2026-08-04,Alpha Traders,John Doe,Mechanical Keyboard,1,89.99
+2026-08-04,Omega Goods,Jane Smith,USB-C Cable,5,12.45
+2026-08-04,Nova Systems,Bob Johnson,LED Desk Lamp,3,34.99
+2026-08-04,Apex Retail,Charlie Green,Bluetooth Speaker,1,45.00
+2026-08-04,Alpha Traders,Alice Brown,HDMI Cable,10,10.99
+2026-08-04,Omega Goods,John Doe,Laptop Stand,1,39.95
+2026-08-04,Nova Systems,Jane Smith,Wireless Mouse,3,25.50
+2026-08-04,Apex Retail,Bob Johnson,Mechanical Keyboard,1,89.99
+2026-08-04,Alpha Traders,Charlie Green,USB-C Cable,8,12.45
+2026-08-04,Omega Goods,Alice Brown,LED Desk Lamp,2,34.99
+2026-08-04,Nova Systems,John Doe,Bluetooth Speaker,2,45.00
+2026-08-04,Apex Retail,Jane Smith,HDMI Cable,6,10.99
+2026-08-04,Alpha Traders,Bob Johnson,Laptop Stand,3,39.95
+2026-08-04,Omega Goods,Charlie Green,Wireless Mouse,4,25.50
+2026-08-04,Nova Systems,Alice Brown,Mechanical Keyboard,1,89.99
+2026-08-04,Apex Retail,John Doe,USB-C Cable,4,12.45
+2026-08-04,Alpha Traders,Jane Smith,LED Desk Lamp,1,34.99
+2026-08-04,Omega Goods,Bob Johnson,Bluetooth Speaker,3,45.00
+2026-08-04,Nova Systems,Charlie Green,HDMI Cable,9,10.99
+2026-08-04,Apex Retail,Alice Brown,Laptop Stand,1,39.95
+2026-08-04,Alpha Traders,John Doe,Wireless Mouse,2,25.50
+2026-08-04,Omega Goods,Jane Smith,Mechanical Keyboard,1,89.99
+2026-08-04,Nova Systems,Bob Johnson,USB-C Cable,6,12.45
+2026-08-04,Apex Retail,Charlie Green,LED Desk Lamp,2,34.99
+2026-08-04,Alpha Traders,Alice Brown,Bluetooth Speaker,2,45.00
+2026-08-04,Omega Goods,John Doe,HDMI Cable,8,10.99
+2026-08-04,Nova Systems,Jane Smith,Laptop Stand,2,39.95
+2026-08-04,Apex Retail,Bob Johnson,Wireless Mouse,5,25.50
+2026-08-04,Alpha Traders,Charlie Green,Mechanical Keyboard,1,89.99
+2026-08-04,Omega Goods,Alice Brown,USB-C Cable,3,12.45
+2026-08-04,Nova Systems,John Doe,LED Desk Lamp,1,34.99
+2026-08-04,Apex Retail,Jane Smith,Bluetooth Speaker,4,45.00
+2026-08-04,Alpha Traders,Bob Johnson,HDMI Cable,7,10.99
+2026-08-04,Omega Goods,Charlie Green,Laptop Stand,1,39.95
+2026-08-04,Nova Systems,Alice Brown,Wireless Mouse,3,25.50
+2026-08-04,Apex Retail,John Doe,Mechanical Keyboard,1,89.99
+2026-08-04,Alpha Traders,Jane Smith,USB-C Cable,5,12.45
+2026-08-04,Omega Goods,Bob Johnson,LED Desk Lamp,3,34.99
+2026-08-04,Nova Systems,Charlie Green,Bluetooth Speaker,2,45.00
+2026-08-04,Apex Retail,Alice Brown,HDMI Cable,10,10.99
+2026-08-04,Alpha Traders,John Doe,Laptop Stand,1,39.95
+2026-08-04,Omega Goods,Jane Smith,Wireless Mouse,4,25.50
+2026-08-04,Nova Systems,Bob Johnson,Mechanical Keyboard,1,89.99
+2026-08-04,Apex Retail,Charlie Green,USB-C Cable,8,12.45
+2026-08-04,Alpha Traders,Alice Brown,LED Desk Lamp,2,34.99
+2026-08-04,Omega Goods,John Doe,Bluetooth Speaker,3,45.00
+2026-08-04,Nova Systems,Jane Smith,HDMI Cable,6,10.99
+2026-08-04,Apex Retail,Bob Johnson,Laptop Stand,2,39.95
+2026-08-04,Alpha Traders,Charlie Green,Wireless Mouse,1,25.50
+2026-08-04,Omega Goods,Alice Brown,Mechanical Keyboard,1,89.99
+2026-08-04,Nova Systems,John Doe,USB-C Cable,7,12.45
+2026-08-04,Apex Retail,Jane Smith,LED Desk Lamp,3,34.99
+2026-08-04,Alpha Traders,Bob Johnson,Bluetooth Speaker,1,45.00
+2026-08-04,Omega Goods,Charlie Green,HDMI Cable,9,10.99
+2026-08-04,Nova Systems,Alice Brown,Laptop Stand,2,39.95
+2026-08-04,Apex Retail,John Doe,Wireless Mouse,4,25.50
+2026-08-04,Alpha Traders,Jane Smith,Mechanical Keyboard,1,89.99
+2026-08-04,Omega Goods,Bob Johnson,USB-C Cable,6,12.45
+2026-08-04,Nova Systems,Charlie Green,LED Desk Lamp,1,34.99
+2026-08-04,Apex Retail,Alice Brown,Bluetooth Speaker,3,45.00
+2026-08-04,Alpha Traders,John Doe,HDMI Cable,8,10.99
+2026-08-04,Omega Goods,Jane Smith,Laptop Stand,1,39.95
+2026-08-04,Nova Systems,Bob Johnson,Wireless Mouse,3,25.50
+2026-08-04,Apex Retail,Charlie Green,Mechanical Keyboard,1,89.99
+2026-08-04,Alpha Traders,Alice Brown,USB-C Cable,5,12.45
+2026-08-04,Omega Goods,John Doe,LED Desk Lamp,2,34.99
+2026-08-04,Nova Systems,Jane Smith,Bluetooth Speaker,2,45.00
+2026-08-04,Apex Retail,Bob Johnson,HDMI Cable,10,10.99
+2026-08-04,Alpha Traders,Charlie Green,Laptop Stand,2,39.95
+2026-08-04,Omega Goods,Alice Brown,Wireless Mouse,5,25.50
+2026-08-04,Nova Systems,John Doe,Mechanical Keyboard,1,89.99
+2026-08-04,Apex Retail,Jane Smith,USB-C Cable,4,12.45
+2026-08-04,Alpha Traders,Bob Johnson,LED Desk Lamp,1,34.99
+2026-08-04,Omega Goods,Charlie Green,Bluetooth Speaker,4,45.00
+2026-08-04,Nova Systems,Alice Brown,HDMI Cable,7,10.99
+2026-08-04,Apex Retail,John Doe,Laptop Stand,2,39.95
+2026-08-04,Alpha Traders,Jane Smith,Wireless Mouse,2,25.50
+2026-08-04,Omega Goods,Bob Johnson,Mechanical Keyboard,1,89.99
+2026-08-04,Nova Systems,Charlie Green,USB-C Cable,9,12.45
+2026-08-04,Apex Retail,Alice Brown,LED Desk Lamp,3,34.99
+2026-08-04,Alpha Traders,John Doe,Bluetooth Speaker,1,45.00
+2026-08-04,Omega Goods,Jane Smith,HDMI Cable,9,10.99
+2026-08-04,Nova Systems,Bob Johnson,Laptop Stand,2,39.95
+2026-08-04,Apex Retail,Charlie Green,Wireless Mouse,1,25.50
+2026-08-04,Alpha Traders,Alice Brown,Mechanical Keyboard,1,89.99
